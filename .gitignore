@@ -9,3 +9,7 @@ venv/
 venv310/
 .virtual_documents/
 .DS_Store
+venv/
+venv310/
+.virtual_documents/
+.DS_Store
